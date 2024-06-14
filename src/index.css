@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+.app{
+  min-height: 100vh;
+  color: white;
+  background: linear-gradient(#0b004e, #1d152f, #002834);
+}
