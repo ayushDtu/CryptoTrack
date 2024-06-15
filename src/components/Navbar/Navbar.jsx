@@ -4,6 +4,7 @@ import logo from '../../assets/logo.png'
 import arrow_icon from '../../assets/arrow_icon.png'
 import { CoinContext } from '../../context/CoinContext'
 import { Link } from 'react-router-dom'
+import logooooo from '../../assets/image.png'
 
 const Navbar = () => {
 
@@ -34,7 +35,7 @@ const Navbar = () => {
     <div className='navbar'>
 
         <Link to={'/'}>
-        <img src={logo} alt=""  className='logo'/>
+        <img src={logooooo} alt=""  className='logo'/>
         </Link>
         <ul>
         <Link to={'/'}>
